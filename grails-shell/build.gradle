@@ -90,7 +90,7 @@ dependencies {
     implementation "org.apache.maven.resolver:maven-resolver-transport-http:$apacheMavenResolverVersion"
 
     testImplementation "net.sf.expectit:expectit-core:$expectitCoreVersion"
-    testImplementation "com.github.jnr:jnr-posix:3.1.20"
+    testImplementation "com.github.jnr:jnr-posix:3.1.21"
     testImplementation "org.apache.groovy:groovy-xml"
     testImplementation "org.apache.groovy:groovy-json"
     testImplementation "org.apache.groovy:groovy-templates"
